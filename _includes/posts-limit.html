@@ -1,0 +1,21 @@
+{% assign posts_limit = page.posts_limit | default: 10 %}
+
+{%- for entry in site.posts limit: posts_limit -%}
+  {% include entry.html %}
+{%- endfor -%}
+
+{%- for entry in site.globalhealth limit: posts_limit -%}
+  {% include entry.html %}
+{%- endfor -%}
+
+{%- for entry in site.engineering limit: posts_limit -%}
+  {% include entry.html %}
+{%- endfor -%}
+
+{%- for entry in site.machinelearning limit: posts_limit -%}
+  {% include entry.html %}
+{%- endfor -%}
+
+{%- for entry in site.music limit: posts_limit -%}
+  {% include entry.html %}
+{%- endfor -%}
