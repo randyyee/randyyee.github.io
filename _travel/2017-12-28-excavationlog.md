@@ -45,11 +45,11 @@ Every scoop was tossed into buckets and brought to the sieve to separate the dir
 
 <img src= "/assets/images/IMG_1152.JPG"/>
 
-We worked five days a week, staying on the site until the two. Afterwards, we went up to the Institute for Aegean Prehistory (INSTAP) to processing the finds. INSTAP sat at the Southern end of Pachia Ammos on top of a hill just behind our accommodations.
+We worked five days a week, staying on the site until 2pm. Afterwards, we went up to the Institute for Aegean Prehistory (INSTAP) to processing the finds. INSTAP sat at the Southern end of Pachia Ammos on top of a hill just behind our accommodations.
 
 <img src= "/assets/images/GreecePA 112.JPG"/>
 
-The 100 degree days were hellish. When work was over, I would put on my swim trunks and went to the sea to soak.
+The 100 degree days were hellish. When work was over, I would put on my swim trunks and soak in the Mediterranean.
 
 <img src= "/assets/images/GreecePA 058.JPG"/>
 
