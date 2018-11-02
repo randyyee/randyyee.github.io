@@ -4,7 +4,7 @@ title:  "Comparing 3 Health Systems: Thailand, Ethiopia, Bangladesh"
 excerpt_separator: <!--more-->
 ---
 
-<i>A table comparing health systems characteristics between three countries: Thailand, Ethiopia, Bangladesh </i><!--more-->
+<i>A quick table comparing health systems characteristics between three countries: Thailand, Ethiopia, Bangladesh </i><!--more-->
 <table style="font-size:10px">
 <thead>
 

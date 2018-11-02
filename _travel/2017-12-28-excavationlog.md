@@ -7,9 +7,9 @@ excerpt_separator: <!--more-->
 
 <img src= "/assets/images/IMG_1015.JPG"/>
 
-I arrived at Heraklion a little after midnight to take part in the 2014 excavation at Gournia. <!--more-->
+I joined Gournia Excavation Project for the 2014 excavation at Gournia. <!--more-->
 
-We were based in Pachia Ammos, a little seaside town on the Mirabello Bay, banking around the Mediterranean landscape. Pachia Ammos is a short and stodgy little town half filled with tavernas and half with houses.
+We were based in Pachia Ammos, a little seaside town on the Mirabello Bay. Pachia Ammos is a short and stodgy little town half filled with tavernas and half with houses.
 
 <img src= "/assets/images/GreecePA 022.JPG"/>
 
@@ -17,11 +17,11 @@ We were based in Pachia Ammos, a little seaside town on the Mirabello Bay, banki
 
 <img src= "/assets/images/GreecePA 129.JPG"/>
 
-I stayed at the eastern edge of town. The last restaurant on the block was Natasha's, and she also ran the accommodation next door. I couldn't believe my luck as I scored an amazing place. My room was on the second floor of the apartment overlooking the sea.
+I stayed at the eastern edge of town. The last restaurant on the block was Natasha's, and she also ran the accommodation next door. I scored an amazing place.
 
 <img src= "/assets/images/GreecePA 101.JPG"/>
 
-It was amazing experiencing the many moods of Crete.
+My room was on the second floor of the apartment overlooking the sea. It was amazing experiencing the many moods of Crete from this balcony.
 
 <img src= "/assets/images/GreecePA 030.JPG"/>
 
@@ -53,7 +53,7 @@ The 100 degree days were hellish. When work was over, I would put on my swim tru
 
 <img src= "/assets/images/GreecePA 058.JPG"/>
 
-Occasionally, I lunched at one of the neighborhood tavernas.
+Sometimes I dined at one of the neighborhood tavernas.
 
 <img src= "/assets/images/GreecePA 074.JPG"/>
 
@@ -87,7 +87,7 @@ Obsidian glass was my favorite find - an amazing object to pick out of the sieve
 
 <img src= "/assets/images/IMG_1214.JPG"/>
 
-Not a bad way to spend the summer. The whole town was very friendly, as you walked along the pier, someone was bound to offer you a bottle of Mythos or raki made in someone's backyard. I also got the chance to see a couple of local festivals.
+Not a bad way to spend the summer. The whole town was very friendly, as you walked along the pier, someone was bound to offer you a bottle of Mythos or raki made in someone's backyard. We also got the chance to see a couple of local festivals.
 
 <img src= "/assets/images/GreeceAN 225.JPG"/>
 
