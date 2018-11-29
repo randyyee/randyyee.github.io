@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Troubadour (Poetry Twitter Bot)"
+excerpt_separator: <!--more-->
 ---
 A little code to make a Twitter bot that tweets lines of William Wordsworth's <i>Lyrical Ballads</i>).
+<!--more-->
 
 Info:
 This project is written in Python 3 and makes use of the Tweepy (a python library for accessing the Twitter api). It seems that everyone is using this handy library for there own Twitter projects. More information can be found [here](www.tweepy.org).

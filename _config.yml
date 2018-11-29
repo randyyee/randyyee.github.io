@@ -85,7 +85,7 @@ collections:
   music:
     output: true
     permalink: /:collection/:path/
-  globalhealth:
+  engineering:
     output: true
     permalink: /:collection/:path/
   machinelearning:

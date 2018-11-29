@@ -9,9 +9,9 @@ excerpt_separator: <!--more-->
 
 I joined Gournia Excavation Project for the 2014 excavation at Gournia. <!--more-->
 
-We were based in Pachia Ammos, a little seaside town on the Mirabello Bay. Pachia Ammos is a short and stodgy little town half filled with tavernas and half with houses.
-
 <img src= "/assets/images/GreecePA 022.JPG"/>
+
+We were based in Pachia Ammos, a little seaside town on the Mirabello Bay. Pachia Ammos is a short and stodgy little town half filled with tavernas and half with houses.
 
 <img src= "/assets/images/GreecePA 087.JPG"/>
 
@@ -21,9 +21,9 @@ I stayed at the eastern edge of town. The last restaurant on the block was Natas
 
 <img src= "/assets/images/GreecePA 101.JPG"/>
 
-My room was on the second floor of the apartment overlooking the sea. It was amazing experiencing the many moods of Crete from this balcony.
-
 <img src= "/assets/images/GreecePA 030.JPG"/>
+
+My room was on the second floor of the apartment overlooking the sea. I got to experiencing the many moods of Crete from this balcony.
 
 <img src= "/assets/images/GreecePA 031.JPG"/>
 
@@ -39,13 +39,13 @@ We started at "Trench 103" completing excavation of Harriet Boyd's early house s
 
 Like all other buildings in Gournia, only a few meters of the foundation remained of what was once a house. The dwellings of Gournia were thought to be two-storied with the entrance being from the pebbled street to the 2nd floor. We dug through the current floor reaching bedrock in only a few days. One dug in layers to the depth of a pickaxe blade. The length of the blade was the marker for the amount of days, weeks, months, years stripped away layer by layer.
 
-Every scoop was tossed into buckets and brought to the sieve to separate the dirt leaving the most important finds behind.
-
 <img src= "/assets/images/IMG_1155.JPG"/>
+
+Every scoop was tossed into buckets and brought to the sieve to separate the dirt leaving the most important finds behind.
 
 <img src= "/assets/images/IMG_1152.JPG"/>
 
-We worked five days a week, staying on the site until 2pm. Afterwards, we went up to the Institute for Aegean Prehistory (INSTAP) to processing the finds. INSTAP sat at the Southern end of Pachia Ammos on top of a hill just behind our accommodations.
+We worked six days a week, staying on the site until 2pm. Afterwards, we went up to the Institute for Aegean Prehistory (INSTAP) to processing the finds. INSTAP sat at the Southern end of Pachia Ammos on top of a hill just behind our accommodations.
 
 <img src= "/assets/images/GreecePA 112.JPG"/>
 
@@ -67,9 +67,9 @@ My next assignment brought me to the northern part of the ancient city (facing t
 
 <img src= "/assets/images/IMG_1157.JPG"/>
 
-<img src= "/assets/images/IMG_1169.JPG"/>
-
 At the end of the dig, you could see the characteristic workbenches and the remains of multiple furnaces. This was a massive pottery making complex. The whole building faced the sea so ships arriving from other cities would have first been impressed by the crowning industry of Gournia as they docked into her harbor.
+
+<img src= "/assets/images/IMG_1169.JPG"/>
 
 At the very top of the city, they would have seen a magnificent palace.
 
@@ -103,7 +103,7 @@ On the days off, I had the fortuitous luck to join several groups with cars goin
 
 <img src= "/assets/images/IMG_1459.JPG"/>
 
-But public transportation was very easy. You can go to one of the local marts and purchase a round trip bus for a few euros. They will usually have the timetable. The buses were quite something - reused tour buses with luxurious seats and air conditioning. I took the bus to Ierapetra and hoity toity Agios Nikolaos a few times.
+But public transportation was very easy. You can go to one of the local marts and purchase a round trip bus for a few euros. They will usually have the timetable. The buses were quite something - reused tour buses with luxurious seats and air conditioning. I took the bus to Ierapetra and Agios Nikolaos a few times.
 
 <img src= "/assets/images/GreeceAN 051.JPG"/>
 
