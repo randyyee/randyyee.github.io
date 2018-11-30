@@ -5,14 +5,12 @@ title: About
 <h2>
 Randy Yee
 </h2>
-Founder of Remedy.
+2011 - English Literature BA.
 
-<div class="box">
-<h2>Have an idea?</h2>
-  <p>
-Remedy would love to work with you! We are open to all types projects involving global health. Out team is interdisciplinary with experts in from the sciences and engineering to the humanities. We have whatever you need to make your project succeed.
-  </p>
-</div>
+2016 - Global Health and Development MSc.
+
+2018 - Biomedical Engineering MEng.
+
 <h2>Contact Me</h2>
 <form action="https://formspree.io/lanakiyee@yahoo.com"
     method="POST">

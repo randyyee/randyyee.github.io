@@ -88,9 +88,9 @@ collections:
   engineering:
     output: true
     permalink: /:collection/:path/
-  machinelearning:
-    output: true
-    permalink: /:collection/:path/
+  # machinelearning:
+  #   output: true
+  #   permalink: /:collection/:path/
   travel:
     output: true
     permalink: /:collection/:path/
@@ -122,11 +122,11 @@ defaults:
     values:
       layout: post
 
-  - scope:
-      path: "_machinelearning"
-      type: machinelearning
-    values:
-      layout: post
+  # - scope:
+  #     path: "_machinelearning"
+  #     type: machinelearning
+  #   values:
+  #     layout: post
 
   - scope:
       path: "_travel"
@@ -148,6 +148,6 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/randy-yee-65293386/
+    icon: fab fa-linkedin-in

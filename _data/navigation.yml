@@ -1,11 +1,11 @@
 # Sample site navigation bar links
 
-- title: Home
-  url: /
+# - title: Home
+#   url: /
 - title: Global Health
   url: /globalhealth/
-- title: Machine Learning
-  url: /machinelearning/
+# - title: Machine Learning
+#   url: /machinelearning/
 - title: Engineering
   url: /engineering/
 - title: Music
