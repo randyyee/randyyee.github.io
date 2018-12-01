@@ -22,16 +22,14 @@ First coined by Nick Pelling in the service statement from his short lived consu
 
 The field of health is a field that prizes clarity and transparency. But it was been bogged down by the inevitable end of bureaucracy. Many lack the understanding of how disparate services fit together to deliver care. Payments, for example, is a major can of worms. Patients rowing with tellers are a common sight around hospital all over the world. Is there anyone who can explain the discrepancies between costs and charges? In the end, everyone is befuddled. It is no wonder how pervasive distrust perception of bureaucratic enigma, Kafkaesque or at worst full of trivialities.
 
-In the modern era, integration is the mantra of health systems development. Borne from a legacy of well-meaning people doing their own thing. While filling gaps where resources have been stretched thin surveillance disconnect to the larger governing body making population health planning and policy difficult
+In the modern era, integration is the mantra of health systems development, a necessity from the chaos of multiple well-meaning people doing their own thing. Healthcare in the developing world has always relied on outside help to fill gaps where resources have been stretched thin. The problem is that the majority of these services do not integrate smoothly into the larger health system, and this disconnect to the larger governing body makes population health planning and policy difficult, effectively gumming up the works when we try to improve any one component of the health system.
 
-So a plan for integration is well-meaning but with little substance. One might imagine a unit convening in a carpeted room in Geneva HQ. what's your idea? Lets integrate so and so. But what does this action entail? Who is missing from this recommendation process? a lot of stakeholders. Gamification offers dissemination of our understanding of the system – of which every participant has some unique perspective The surgeon knows And nobody knows anything about hospital billing
+So a plan for integration is well-meaning first-step but with little substance. One might imagine a unit convening in a carpeted room in Geneva HQ. what's your idea? Lets integrate so and so. But what does this action entail? Who is missing from this recommendation process? A lot of stakeholders. Gamification offers the opportunity for the dissemination of a great system, and every player has their own unique perspective to contribute.
 
 But together we can figure this all out...
 
-So the first step is system simulation. Here we translate existing processes and pathways "as-is." We like to have all the stakeholders participate in the development of the simulation. Having a multitude of diverse participants in this exercise will allow us to construct a comprehensive model.
+So the first step is system simulation. Here we translate existing processes and pathways "as-is." We like to have all the stakeholders participate in the development of the simulation: patients, staff, vendors, healthcare workers, nurses, doctors, etc.
 
 But how do we go from simulation to game? It's only a simulation if there are no participants. So we'll have to open up some of the parameters for user-input/manipulation. This allows the players to see how certain actions or decisions affect the system as a whole. Every role will have their own unique set of parameters. Players will be able to find insights by playing with their own defined set of skills and also by rotating around and experiencing other roles.
 
-defining goals "winning the game" budget certain budget but other positive outcomes reducing maternal mortality strive for a combination of goals
-
-The primary lesson to take away build resilient and sustainable optimize expansion coverage
+Finally, we should be defining goals or "winning the game." This can be a combination of goals - some sort of performance outcome (reduced maternal mortality) tied to a budget constraint. Having stakeholders from every level play the game allows us to work on these problems from a truly multidisciplinary foundation.
