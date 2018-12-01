@@ -2,12 +2,12 @@
 
 # - title: Home
 #   url: /
+- title: Engineering
+  url: /engineering/
 - title: Global Health
   url: /globalhealth/
 # - title: Machine Learning
 #   url: /machinelearning/
-- title: Engineering
-  url: /engineering/
 - title: Music
   url: /music/
 - title: Travel
