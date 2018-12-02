@@ -598,3 +598,10 @@ hr.slender {
   content: "\eac9";
 }
 /*-- End of Icomoon icon font section --*/
+
+#rotate-text {
+  margin:0;
+  padding:0;
+  width: 25px;
+  transform: rotate(270deg);
+}
