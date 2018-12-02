@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Randy Yee
+title: About
 ---
 <h1 class="content-listing-header sans">About Me</h1>
 <ul class="content-listing ">
