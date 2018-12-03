@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2014 Gournia Post-Excavation Report"
-categories: writings
+categories: essay
 excerpt_separator: <!--more-->
 ---
 <i><b>GOURNIA, CRETE </b> --- Excavations at Gournia, June & July 2014</i>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review of <i>If not, Winter</i>, Fragments of Sappho Translated by Anne Carson"
-categories: writings
+categories: review
 excerpt_separator: <!--more-->
 ---
 Ripped, torn, shredded papyri, quotations on pottery shards and in the text of historical writers are all that remain of Sappho's lyrical poetry.

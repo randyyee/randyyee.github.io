@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Letter to Stephen Curry about the 5s"
+title: "Poem: Letter to Stephen Curry about the 5s"
 categories: writings
 excerpt_separator: <!--more-->
 ---
