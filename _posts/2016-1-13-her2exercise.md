@@ -21,6 +21,8 @@ CONCLUSION/RECOMMENDATIONS
 The cost of Herceptin treatment for HER2 +breast cancer is above NICE’s £30,000 per QALY threshold. Resistance has shown to be high which may add to costs, further research on resistance is required. We recommend another cost-effective analysis to be carried out in future, as generic alternatives are set to become available soon. Additionally, the BBC (2010) has reported that members of the medical community are concerned that Herceptin provision will take funding away from more cost-effective treatments. Finally, within the constraints of the UK health budget, Herceptin as a treatment for breast cancer is not a recommended course of action.
 
 References:
+
+<i>
 Breast Cancer Deadline (nd) Trastuzumab.http://www.breastcancerdeadline2020.org/breast-cancer-information/specific-issues-in-breast-cancer/trastuzumab/ Accessed online on January 19, 2016.
 
 BBC News (2006) Herceptin costs 'threaten care'. http://news.bbc.co.uk/1/hi/health/6176008.stm. Accessed online on January 19, 2016.
@@ -36,3 +38,4 @@ Norum, J et al. (2005) A Monoclonal antibody against HER-2 (trastuzumab) for met
 Parkinson B et al. (2014) Economic evaluations of trastuzumab in HER2-positive metastatic cancer: a systemic review and critique. European Journal Health Economics 15, pp. 93–112
 
 Wilken, JA and Maihle, NJ (2010). Primary trastuzumab resistance: new tricks for an old drug. Annals of the New York Academy of Sciences 1210.
+</i>
